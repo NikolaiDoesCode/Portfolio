@@ -18,7 +18,7 @@ export default function Contact() {
               Let's build something.
             </h2>
             <p className="text-sm text-foreground/50 leading-relaxed max-w-sm">
-              Open to remote contracts in AI engineering, infrastructure, or technical leadership.
+              Open to engineering roles in AI/ML engineering, platform engineering, or infrastructure automation — hybrid or remote.
             </p>
           </div>
 
