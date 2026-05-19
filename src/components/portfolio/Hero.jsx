@@ -2,7 +2,7 @@ import React from 'react';
 import { ArrowDown } from 'lucide-react';
 
 const stats = [
-  { value: '4+',    label: 'Years experience' },
+  { value: '3+',    label: 'Years experience' },
   { value: '5',     label: 'AI products shipped' },
   { value: '20hrs', label: 'Saved per automation' },
 ];
